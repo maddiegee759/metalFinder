@@ -7,11 +7,11 @@ Version: 1.0
 Notes: <if any updates or changes we note them here>
  */
 
-package metalfinder;
+package metalFinder;
 // import for user input 
 import java.util.Scanner;
 
-public class MetalFinder
+public class metalFinder
 {
        public void start()
        {
@@ -195,7 +195,7 @@ private void Choice4()
 public static void main(String[] args) 
         { 
             // run code above defined in public void start
-            new MetalFinder().start();    
+            new metalFinder().start();    
          }
 
 
